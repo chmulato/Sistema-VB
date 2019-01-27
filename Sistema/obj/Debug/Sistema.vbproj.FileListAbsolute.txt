@@ -1,0 +1,12 @@
+E:\ONEDRIVE_HD\OneDrive\Documentos\Sistema VB\Sistema VB\Sistema\bin\Debug\Sistema.exe.config
+E:\ONEDRIVE_HD\OneDrive\Documentos\Sistema VB\Sistema VB\Sistema\bin\Debug\Sistema.exe
+E:\ONEDRIVE_HD\OneDrive\Documentos\Sistema VB\Sistema VB\Sistema\bin\Debug\Sistema.pdb
+E:\ONEDRIVE_HD\OneDrive\Documentos\Sistema VB\Sistema VB\Sistema\bin\Debug\Sistema.xml
+E:\ONEDRIVE_HD\OneDrive\Documentos\Sistema VB\Sistema VB\Sistema\obj\Debug\Sistema.vbprojAssemblyReference.cache
+E:\ONEDRIVE_HD\OneDrive\Documentos\Sistema VB\Sistema VB\Sistema\obj\Debug\Sistema.Resources.resources
+E:\ONEDRIVE_HD\OneDrive\Documentos\Sistema VB\Sistema VB\Sistema\obj\Debug\Sistema.vbproj.GenerateResource.cache
+E:\ONEDRIVE_HD\OneDrive\Documentos\Sistema VB\Sistema VB\Sistema\obj\Debug\Sistema.vbproj.CoreCompileInputs.cache
+E:\ONEDRIVE_HD\OneDrive\Documentos\Sistema VB\Sistema VB\Sistema\obj\Debug\Sistema.exe
+E:\ONEDRIVE_HD\OneDrive\Documentos\Sistema VB\Sistema VB\Sistema\obj\Debug\Sistema.xml
+E:\ONEDRIVE_HD\OneDrive\Documentos\Sistema VB\Sistema VB\Sistema\obj\Debug\Sistema.pdb
+E:\ONEDRIVE_HD\OneDrive\Documentos\Sistema VB\Sistema VB\Sistema\obj\Debug\Sistema.frmLogin.resources
